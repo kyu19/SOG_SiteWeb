@@ -13,7 +13,7 @@ Create table client
     tel varchar(20) default NULL,
     email varchar(50) NOT NULL unique,
     adresse varchar(50) default NULL,
-    CP int(5) default NULL,
+    CP varchar(5) default NULL,
     ville varchar(20) default NULL,
     role enum('userc', 'admin') default 'userc',
     mdp varchar(255) NOT NULL,
