@@ -1,0 +1,72 @@
+/*css vue_connexion.php*/
+.pos
+{
+    margin-left: 15px;
+}
+.pos_label
+{
+    margin-left: 10px;
+}
+.img{
+    border-radius : 10px;
+}
+
+.html
+{
+	width: 100%;
+	height: 100%;
+}
+
+/*css effet icone page d'accueil*/
+
+.image:hover img 
+{
+	-webkit-transition: all 1s ease; /*Safari Chrome*/
+	-moz-transition: all 1s ease; /* Firefox */
+	-ms-transition: all 1s ease; /* Internet Explorer 9 */
+	-o-transition: all 1s ease; /* Opera */
+	transition: all 1s ease;
+	-webkit-transform:scale(1.25); /*Safari Chrome*/
+	-moz-transform:scale(1.25); /* Firefox */
+	-ms-transform:scale(1.25); /* Internet Explorer 9 */
+	-o-transform:scale(1.25); /* Opera */
+	transform:scale(1.25);
+	
+}
+/*positionnement des card dans chaque page*/
+
+.sizecard
+{
+	width: 30%;
+	margin-left: 35%;
+}
+.sizecard2
+{
+	width: 52%;
+	margin-left: 24%;
+}
+.sizecard3
+{
+	width: 45%;
+	margin-left: 27.5%;
+}
+.sizecard4
+{
+	width: 50%;
+	margin-left: 25%;
+}
+.sizecard5
+{
+	width: 100%;;
+}
+.sizecard6
+{
+    width: 42%;
+	margin-left: 29%;
+}
+/*css footer*/
+
+footer 
+{
+    background: #212529;
+}
