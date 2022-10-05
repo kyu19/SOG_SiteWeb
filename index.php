@@ -183,6 +183,7 @@ $unControleur = new Controleur($serveur, $bdd, $user, $mdp);
 
 <nav class="navbar navbar-expand-lg navbar-dark bg-dark hide">
   	<div class="container-fluid">
+  		<h1> TJM </h1>
     	<a class="navbar-brand" href="/GestionIntervention/">Société SOG</a>
     	<button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
       		<span class="navbar-toggler-icon"></span>
